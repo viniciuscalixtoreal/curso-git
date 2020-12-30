@@ -1,0 +1,13 @@
+C:\Users\vinic\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.exe
+C:\Users\vinic\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.deps.json
+C:\Users\vinic\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.runtimeconfig.json
+C:\Users\vinic\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.runtimeconfig.dev.json
+C:\Users\vinic\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.dll
+C:\Users\vinic\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.pdb
+C:\Users\vinic\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csprojAssemblyReference.cache
+C:\Users\vinic\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.AssemblyInfo.cs
+C:\Users\vinic\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.dll
+C:\Users\vinic\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.pdb
+C:\Users\vinic\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.genruntimeconfig.cache
