@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinic\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {}
+    "C:\\Users\\vinic\\source\\repos\\curso-git\\ProjetoTeste\\ProjetoTeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinic\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {
+    "C:\\Users\\vinic\\source\\repos\\curso-git\\ProjetoTeste\\ProjetoTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\curso-git\\ProjetoTeste\\ProjetoTeste.csproj",
         "projectName": "ProjetoTeste",
-        "projectPath": "C:\\Users\\vinic\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectPath": "C:\\Users\\vinic\\source\\repos\\curso-git\\ProjetoTeste\\ProjetoTeste.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\source\\repos\\ProjetoTeste\\ProjetoTeste\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\source\\repos\\curso-git\\ProjetoTeste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
